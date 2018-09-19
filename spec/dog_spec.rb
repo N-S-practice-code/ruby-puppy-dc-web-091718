@@ -1,4 +1,4 @@
-require "spec_helper"
+arequire "spec_helper"
 
 describe "Dog" do
 
